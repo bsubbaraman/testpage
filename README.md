@@ -1,4 +1,4 @@
-## This Is A Really Cool BioSensing Project
+## This Is A Really Cool BioSensing Project :)
 
 You can use the [editor on GitHub](https://github.com/bsubbaraman/testpage/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
