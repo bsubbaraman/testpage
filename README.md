@@ -4,7 +4,11 @@ You can use the [editor on GitHub](https://github.com/bsubbaraman/testpage/edit/
 
 This is [another page](other-page.md)
 
-This is an [image](docs/tubehand.jpg).
+This is an image. 
+
+<img src=docs/tubehand.jpg width=25% height=25%>!
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
